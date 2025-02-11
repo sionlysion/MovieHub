@@ -1,0 +1,32 @@
+.movie-details {
+    padding: 2rem;
+  }
+  
+  .movie-details img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .movie-details h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .movie-details p {
+    margin: 0.5rem 0;
+  }
+  
+  .movie-details button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .movie-details button:hover {
+    background-color: #0056b3;
+  }
+  
